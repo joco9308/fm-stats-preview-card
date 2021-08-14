@@ -105,7 +105,7 @@ main > section > p {
     text-transform: uppercase;
 }
 
-.stat > h3 {
+.stat > h2 {
     color: var(--more-transparent-white);
     text-transform: uppercase;
     font-size: .8rem;
