@@ -75,7 +75,7 @@ main > header > img:last-child {
 }
 
 main > section {
-    padding: 75px;
+    padding: 75px 60px;
     grid-row: 1;
     grid-column: 1;
     display: flex;
